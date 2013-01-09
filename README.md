@@ -1,5 +1,5 @@
-About
------
+PyBST
+=====
 
 PyBST implements Binary Trees, AVL Trees, Splay Trees, and Red Black Trees in Python. Furthermore, PyBST provides a module for plotting these trees using networkx and matplotlib.
 
