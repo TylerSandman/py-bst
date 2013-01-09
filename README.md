@@ -1,5 +1,5 @@
-PyBST
-=====
+About
+-----
 
 PyBST implements Binary Trees, AVL Trees, Splay Trees, and Red Black Trees in Python. Furthermore, PyBST provides a module for plotting these trees using networkx and matplotlib.
 
@@ -44,21 +44,22 @@ Let Tree represent one of the provided tree classes mentioned above.
 
 PyBST requires no external dependencies for the tree classes and their methods themselves. However, note that the following packages are required for tree plotting:
 
-[Networkx]: http://networkx.github.com/
-[Matplotlib]: http://matplotlib.org/
+* [Networkx](http://networkx.github.com/)
+* [Matplotlib](http://matplotlib.org/)
 
 ## Installation
 
 From source:
-	python setup.py install
+
+    python setup.py install
 	
 Using easy install:
-	easy_install pybst
+
+    easy_install pybst
 	
-Alternatively download one of the build distributions found under Downloads.
 
-## Download
+## Resources
 
-Pending
+* [Source and Build Distributions](http://pypi.python.org/pypi/pybst/1.0)
 
 
